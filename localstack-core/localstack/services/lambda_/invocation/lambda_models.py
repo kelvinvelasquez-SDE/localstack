@@ -5,7 +5,7 @@ The actual function code is stored in S3 (see S3Code).
 
 import dataclasses
 import logging
-import os.path
+import os
 import shutil
 import tempfile
 import threading
